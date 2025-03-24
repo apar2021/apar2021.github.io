@@ -18,14 +18,14 @@ const projects: Project[] = [
     link: "https://github.com/apar2021/CSCI4050Project"
   },
   {
-    title: "AI Chat Application",
-    description: "Real-time chat application with AI-powered responses",
-    tech: ["TypeScript", "OpenAI API", "WebSocket", "Redis"],
+    title: "SoundSync",
+    description: "Web platform designed to help musicians find their perfect bandmates ",
+    tech: ["OpenAI API", "MongoDB", "React", "Flask"],
     image: "https://images.unsplash.com/photo-1587560699334-cc4ff634909a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-    link: "#"
+    link: "https://github.com/apar2021/UGAHacksX"
   },
   {
-    title: "Social Media Dashboard",
+    title: "FFPS",
     description: "Analytics dashboard for social media management",
     tech: ["Vue.js", "D3.js", "Express", "PostgreSQL"],
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80",
