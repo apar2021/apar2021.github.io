@@ -110,8 +110,8 @@ const Navigation = () => {
 const HeroSection = () => {
   const roles = [
     "Full Stack Developer",
-    "Security Enthusiast",
-    "UI/UX Designer",
+    "Security Researcher",
+    "CTF Enthusiast",
     "Problem Solver"
   ];
 
